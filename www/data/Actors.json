@@ -1,6 +1,0 @@
-[
-null,
-{"id":1,"battlerName":"Noble_Battler","characterIndex":0,"characterName":"!CharacterSheet","classId":1,"equips":[1,1,2,5,0],"faceIndex":0,"faceName":"Noble_Face","traits":[],"initialLevel":1,"maxLevel":99,"name":"Ash","nickname":"","note":"State Icon Y-Axis : 64\nfootstep_sprite : FootStep\nfootstep_sprite : WaterSplash","profile":""},
-{"id":2,"battlerName":"Actor2_2","characterIndex":0,"characterName":"$Hero02","classId":2,"equips":[2,1,2,5,0],"faceIndex":1,"faceName":"Actor2","traits":[],"initialLevel":1,"maxLevel":99,"name":"Silvia","nickname":"Miki","note":"State Icon Y-Axis : 64","profile":"Her father is a master assassin. Throughout her\nyouth, she mastered the techniques of fighting."},
-{"id":3,"battlerName":"Actor2_8","characterIndex":0,"characterName":"$Hero03","classId":3,"equips":[3,0,2,3,0],"faceIndex":7,"faceName":"Actor2","traits":[],"initialLevel":1,"maxLevel":99,"name":"Miria","nickname":"Tomoe","note":"State Icon Y-Axis : 64","profile":"A woman whose destiny was to become a saint. She\nis full of passion and gives equal love to the enemy."}
-]
